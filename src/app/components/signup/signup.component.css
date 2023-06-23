@@ -1,0 +1,9 @@
+.card.m-3 {
+  width: 800px;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.text-center {
+  text-align: center;
+}
